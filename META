@@ -1,0 +1,6 @@
+name="redis"
+version="0.1.0"
+description="Redis"
+requires="lwt"
+archive(byte) = "redis.cmo"
+archive(syntax,native) = "redis.cmx"

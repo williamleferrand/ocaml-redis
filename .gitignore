@@ -1,2 +1,6 @@
 /lib
 /build
+*~
+*#
+*.cm*
+*_build*
